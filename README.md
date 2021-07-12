@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...QA Automatization, Gamedev, Software development
 - 🌱 I’m currently learning ...QA Diploma
 - 📫 How to reach me ...Contacts in my profile!                                               
-![FFF](https://github.com/Alexander-Berg/Alexander-Berg/blob/bb6eff02df5f510713c2a48f4eab9be5d687db52/source/FFF.png)
+![FFF](https://github.com/Alexander-Berg/Alexander-Berg/blob/6ab992e18d365526da51795c1c76e6d369ec4c27/source/image.png)
 
 
 
