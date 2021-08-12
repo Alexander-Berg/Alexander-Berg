@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexander-Berg, I'm a beginner QA Automation Engineer
-- 👀 I’m interested in QA Automatization, Gamedev,Software development
+- 👀 I’m interested in QA Automatization, Gamedev, Software development
 - 🌱 I’m currently learning QA Diploma
 - 📫 Contacts in my profile!                                               
 ![FFF](https://github.com/Alexander-Berg/Alexander-Berg/blob/6ab992e18d365526da51795c1c76e6d369ec4c27/source/image.png)
