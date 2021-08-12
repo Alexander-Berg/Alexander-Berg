@@ -8,6 +8,14 @@
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg)](https://github.com/anuraghazra/github-readme-stats)
 
+### Languages and Tools:
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=F8C52C)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=F88C00)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mlsql&logoColor=00648B)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=00648B)
+![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-090909?style=for-the-badge&logo=intellij_idea&logoColor=00648B)
+
 
 
 
