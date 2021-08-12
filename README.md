@@ -4,6 +4,9 @@
 - 📫 How to reach me ...Contacts in my profile!                                               
 ![FFF](https://github.com/Alexander-Berg/Alexander-Berg/blob/6ab992e18d365526da51795c1c76e6d369ec4c27/source/image.png)
 
+[![Alexandr Berg GitHub stats](https://github-readme-stats.vercel.app/apiAlexander-Berg)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
