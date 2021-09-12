@@ -5,7 +5,7 @@
 ![FFF](https://github.com/Alexander-Berg/Alexander-Berg/blob/6ab992e18d365526da51795c1c76e6d369ec4c27/source/image.png)
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Berg&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Berg&show_icons=true&theme=vision-friendly-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg)
 
