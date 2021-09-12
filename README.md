@@ -19,8 +19,7 @@
 
 ## I have completed my training
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
-## [Final diploma project]
-[![Header](https://github.com/Alexander-Berg/Quality-Assurance-Diploma)
+## [Final diploma project](https://github.com/Alexander-Berg/Quality-Assurance-Diploma)
 
 
 
