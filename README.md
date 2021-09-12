@@ -6,8 +6,7 @@
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Berg&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg)
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
