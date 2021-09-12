@@ -4,9 +4,6 @@
 - 📫 Contacts in my profile!                                               
 ![FFF](https://github.com/Alexander-Berg/Alexander-Berg/blob/6ab992e18d365526da51795c1c76e6d369ec4c27/source/image.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg)
-
-
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg)
 
