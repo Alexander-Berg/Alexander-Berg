@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexander-Berg, I'm a Junior QA Automation Engineer
+- 👋 Hi, I’m @Alexander-Berg, Junior QA Automation Engineer
 - 👀 I’m interested in QA Automation, Gamedev, Software development
 - 🌱 I’m currently learning C# & Java
 - 📫 Contacts in my profile!                                               
