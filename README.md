@@ -4,7 +4,8 @@
 - 📫 All my contacts on [my personal site](https://alexander-berg.github.io/)
 - 🎓Quality Assurance diploma [project](https://github.com/Alexander-Berg/Quality-Assurance-Diploma)
 - 📑My [Resume](https://github.com/Alexander-Berg/A.Berg-Resume)                                      
-
+- 📊My [QA Mindmaps](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps)
+- 🧶My [Useful Develpment & Testing Links](https://github.com/Alexander-Berg/QA-and-IT-Useful-Links)
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Berg&show_icons=true&theme=vision-friendly-dark)
