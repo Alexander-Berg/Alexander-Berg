@@ -7,7 +7,7 @@
 - 📑My [Resume & Software skills](https://github.com/Alexander-Berg/A.Berg-Resume)                                  
 - 📚My [Education Results](https://github.com/Alexander-Berg/A.Berg-Resume/blob/8b555fabdbf28261b030b45ad1bb925f15125ae0/Pdf%20files/My%20Education%20Results.pdf)  
 - 📊My [QA Mindmaps](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps#readme)
-- 📑My [Recent activity & modded code](https://github.com/Alexander-Berg/My-Recent-Activity-and-modded-code)
+- 📑My [My Tests repository](https://github.com/Alexander-Berg/TestsRepository)
 
 
 
@@ -18,6 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Berg&langs_count=9)
 
 ### I have completed my training in [Netology online university](https://netology.ru)
+![](https://github.com/Alexander-Berg/Alexander-Berg/blob/e23b3a0f28c20f98ee180164a29e22f75c2c074e/source/download.png)
 
 
 
