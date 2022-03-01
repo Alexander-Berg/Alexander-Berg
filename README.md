@@ -5,7 +5,7 @@
 - 📫 All my contacts on [my personal site](https://alexander-berg.github.io/)
 - 🎓Quality Assurance [diploma project](https://github.com/Alexander-Berg/Quality-Assurance-Diploma)
 - 📑My [Resume & Software skills](https://github.com/Alexander-Berg/A.Berg-Resume)                                  
-- 📚My [Education Results](https://github.com/Alexander-Berg/A.Berg-Resume/blob/8b555fabdbf28261b030b45ad1bb925f15125ae0/Pdf%20files/My%20Education%20Results.pdf)  
+- 📚My [Education Results](https://github.com/Alexander-Berg/A.Berg-Resume/blob/48ecf5f261f831ada5e73fa4ab99ab92d61e568d/Pdf%20files/My%20Education%20Results.pdf)  
 - 📊My [QA Mindmaps](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps#readme)
 - 📑My [My Tests repository](https://github.com/Alexander-Berg/TestsRepository)
 
