@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Alexander-Berg, Junior QA Automation Engineer
+- 👋 Hi, I’m @Alexander-Berg, Software QA Manual/Automation Engineer
 - 👀 I’m interested in QA Automation, Gamedev, Software development
 - 🌱 I’m currently learning C# & Java
 - 🧶My [Useful QA Develpment Links & Cheatcheets](https://github.com/Alexander-Berg/QA-and-IT-Useful-Links)  
 - 📫 All my contacts on [my personal site](https://alexander-berg.github.io/)
 - 🎓Quality Assurance [diploma project](https://github.com/Alexander-Berg/Quality-Assurance-Diploma)
-- 📑My [Resume & Software skills](https://github.com/Alexander-Berg/A.Berg-Resume)                                  
-- 📚My [Education Results](https://github.com/Alexander-Berg/A.Berg-Resume/blob/48ecf5f261f831ada5e73fa4ab99ab92d61e568d/Pdf%20files/My%20Education%20Results.pdf)  
+- 📑My [Resume & Software skills](https://github.com/Alexander-Berg/A.Berg-Resume)                         
 - 📊My [QA Mindmaps](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps#readme)
 - 📑My [My Tests repository](https://github.com/Alexander-Berg/TestsRepository)
 
